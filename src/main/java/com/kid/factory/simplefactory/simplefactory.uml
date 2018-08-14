@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.kid.factory.simplefactory</OriginalElement>
+  <nodes>
+    <node x="0.0" y="157.0">com.kid.factory.simplefactory.CarFactory</node>
+    <node x="47.0" y="0.0">com.kid.factory.simplefactory.Car</node>
+    <node x="89.0" y="81.0">com.kid.factory.simplefactory.Audi</node>
+    <node x="0.0" y="81.0">com.kid.factory.simplefactory.Byd</node>
+    <node x="155.0" y="157.0">com.kid.factory.simplefactory.Client01</node>
+    <node x="0.0" y="233.0">com.kid.factory.simplefactory.Client02</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.kid.factory.simplefactory.Audi" target="com.kid.factory.simplefactory.Car">
+      <point x="0.0" y="-15.5" />
+      <point x="126.5" y="56.0" />
+      <point x="97.25" y="56.0" />
+      <point x="16.75" y="15.5" />
+    </edge>
+    <edge source="com.kid.factory.simplefactory.Byd" target="com.kid.factory.simplefactory.Car">
+      <point x="0.0" y="-15.5" />
+      <point x="34.5" y="56.0" />
+      <point x="63.75" y="56.0" />
+      <point x="-16.75" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="114.5" y="124.0" />
+  <SelectedNodes>
+    <node>com.kid.factory.simplefactory.CarFactory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
