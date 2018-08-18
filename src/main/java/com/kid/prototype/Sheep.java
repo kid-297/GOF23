@@ -1,9 +1,10 @@
 package com.kid.prototype;
 
+import java.io.Serializable;
 import java.util.Date;
 
 
-public class Sheep implements Cloneable{
+public class Sheep implements Cloneable ,Serializable {
     private String sname;
     private Date birthday;
 
