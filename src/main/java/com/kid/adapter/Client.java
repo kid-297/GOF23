@@ -2,7 +2,7 @@ package com.kid.adapter;
 
 /**
  * 客户端类
- * （相当于例子中的笔记本，只有USBj接口）
+ * （相当于例子中的笔记本，只有USB接口）
  */
 public class Client {
 

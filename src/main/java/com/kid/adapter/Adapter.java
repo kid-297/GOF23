@@ -1,7 +1,7 @@
 package com.kid.adapter;
 
 /**
- * 适配器本身
+ * 适配器
  * （相当于user和ps/2转接器）
  */
 public class Adapter implements Target{
